@@ -1,2 +1,2 @@
 ## My Backend Journey
-This file contains my Python programming backend process 2024.
+This file contains my Django backend journey in 2024.
